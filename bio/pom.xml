@@ -34,5 +34,6 @@
   <modules>
     <module>bio-ui</module>
     <module>bio-db</module>
+    <module>bio-bi</module>
   </modules>
 </project>
